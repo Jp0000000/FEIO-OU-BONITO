@@ -182,7 +182,7 @@
     display: none;
    }
 
-   @media only screen and (max-width: 768px) {
+   @media (max-width: 768px) {
     .container {
     padding: 5vw;
     }
@@ -213,4 +213,6 @@
       border-radius: 20%; 
     }
    }
+   
+  
       
