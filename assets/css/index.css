@@ -206,4 +206,11 @@ img.Noticia1 {
     margin-left: 125px;
     margin-top: 15px;
   }
+
+  img.Noticia1 {
+    padding: 1vw;
+    width: 300px;
+    height: 300px;
+    margin-left: 14vw;
+  }
 }
