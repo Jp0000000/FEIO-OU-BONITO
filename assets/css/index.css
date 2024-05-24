@@ -180,7 +180,18 @@
 }
 
 /*****************************************************************/
+/********************* Noticia ***********************************/
+img.Noticia1 {
+  display: block;
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  margin-left: 400px;
+  border-radius: 20px;
+  padding: 10px;
+}
 
+/*****************************************************************/
 @media (max-width: 768px) {
   .container {
     padding: 1vw;
