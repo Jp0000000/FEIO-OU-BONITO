@@ -417,7 +417,9 @@ button.like {
   }
 
   .noticia-container {
-    padding: 1px;
+    padding: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   .titulo-noticia1 h1 {
